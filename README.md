@@ -10,7 +10,7 @@ Nesse aplicativo de cronomêtro pomodoro, será apresentado um page com:
 - Som nas interações com os botões;
 - Cada button terá funcionalidade específica para simular um cronomêtro, o usuário também irá conseguir escolher um tempo desejado para ser inserido no cronomêtro. A aplicação terá um som de fundo, mas também será possível desligar o som.
 
-# Nessa etapa uitlize alguns conceitos em JS e CSS:
+# Nessa etapa uitlizei alguns conceitos em JS e CSS:
 - [x]  Utilização de variáveis no CSS;
 - [x]  Utilização da propriedade `clamp()`;
 - [x]  Utilização do `display: grid`;
